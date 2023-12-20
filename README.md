@@ -9,7 +9,7 @@ Origine : [Alfred Hitchlock](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pw
 
 
 ## Connectez vous en WEBSSH
-> http://loaclhost
+> http://localhost
 
 #### Tentez 
 > nc alfred-hitchlock.cyrhades.com:4000
