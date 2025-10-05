@@ -12,7 +12,7 @@ Origine : [Alfred Hitchlock](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pw
 > http://localhost
 
 #### Tentez 
-> nc alfred-hitchlock.cyrhades.com:4000
+> nc alfred-hitchlock.cyrhades.fr:4000
 
 
 
